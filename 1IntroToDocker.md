@@ -16,3 +16,4 @@
 #### Difference between docker image and docker container.
 - *Container images become containers at runtime and in case of docker containers, images become containers when they run on Docker Engine.*
 - Therefore images when running is called container.
+![Docker container visualization](./assets/docker_container_visualization.jpg)
